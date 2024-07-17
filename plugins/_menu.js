@@ -150,9 +150,9 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
-  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing QUEEN_ANITA-V2
+  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing 𝐒𝐀𝐒𝐔𝐊𝐄_𝐔𝐂𝐇𝐈𝐖𝐀-V2
 │└────────────┈ ⳹        
-│*©2024-2099 David Cyril*
+│*©2024-2099 𝑪𝑰𝑫_𝑲𝑨𝑮𝑬𝑵𝑶*
 └─────────────────┈ ⳹
   \n${readmore}\n`;
 
