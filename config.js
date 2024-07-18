@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_ANITA-V2™`",
+  caption: process.env.CAPTION || "`𝐒𝐀𝐒𝐔𝐊𝐄_𝐔𝐂𝐇𝐈𝐖𝐀-𝐕2™`",
   author: process.env.PACK_AUTHER || "𝐒𝐀𝐒𝐔𝐊𝐄_𝐔𝐂𝐇𝐈𝐖𝐀-𝐕2",
   packname: process.env.PACK_NAME || "𝐒𝐀𝐒𝐔𝐊𝐄",
   botname: process.env.BOT_NAME || "𝐒𝐀𝐒𝐔𝐊𝐄_𝐔𝐂𝐇𝐈𝐖𝐀-𝐕2",
