@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://i.imgur.com/WUECJWO.jpeg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://i.imgur.com/WUECJWO.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
@@ -45,7 +45,7 @@
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Daloa"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
