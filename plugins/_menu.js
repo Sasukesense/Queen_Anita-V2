@@ -36,7 +36,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "👸",
+    react: "🉐",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
